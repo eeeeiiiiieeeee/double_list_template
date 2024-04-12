@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/C_Project/C_Basic_exercises/build",
+  "command": "/usr/bin/clang   -g -o CMakeFiles/c_exe.dir/src/double_list.c.o -c /C_Project/C_Basic_exercises/src/double_list.c",
+  "file": "/C_Project/C_Basic_exercises/src/double_list.c"
+}
+]

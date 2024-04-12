@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/c_exe.dir/src/prtT.c.o -o c_exe  -lm 
