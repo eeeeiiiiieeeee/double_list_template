@@ -4,7 +4,8 @@
 
 typedef struct double_list_node {
     int data;
-    char str[27];
+    char str[100];
+    double CF;
     struct double_list_node *prev;
     struct double_list_node *next;
 
